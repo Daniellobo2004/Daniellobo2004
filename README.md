@@ -16,6 +16,10 @@ Estudiante de Ingeniería en Mérida, Venezuela, con una gran pasión por el **g
 
 Actualmente inmerso en el aprendizaje de desarrollo web a través de Platzi. ¡Estoy emocionado por los proyectos que vendrán!
 
+## ✂️ **Actividad reciente**
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 ## ✨ Proyectos
 
 _"Próximamente..."_
